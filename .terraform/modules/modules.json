@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"dev","Source":"./AWS_INFRA","Dir":"AWS_INFRA"},{"Key":"prod","Source":"./AWS_INFRA","Dir":"AWS_INFRA"},{"Key":"stag","Source":"./AWS_INFRA","Dir":"AWS_INFRA"}]}
